@@ -1,0 +1,3 @@
+course: CS3141
+section: R01
+name: Erik van der grijn
